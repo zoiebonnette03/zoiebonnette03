@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zoiebonnette03
 - 👀 I’m interested in game design and development!
-- 🌱 I’m currently learning how to build a meal planning app using React Native and Expo!
+- 🌱 I’m currently learning how to build an app using React Native and Expo!
 - 📫 Reach me at bonnettezoie@gmail.com
 
 <!---
